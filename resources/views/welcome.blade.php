@@ -6,6 +6,7 @@
 
         <title>React Start</title>
         <link rel="stylesheet" href="{{ asset('css/tailwind.css') }}">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
     </head>
     <body class="antialiased">
